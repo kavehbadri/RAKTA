@@ -98,7 +98,6 @@ GitHub: github.com/RAKTA-Co
 
 Acknowledgments
 Prof. Behnam Mohammadi Ivatloo (LUT University)
-Dr. Zhengmao Li (Aalto University)
 
 Dr. Zhengmao Li (Aalto University)
 
